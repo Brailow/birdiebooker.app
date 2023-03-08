@@ -1,0 +1,7 @@
+{
+  "name": "birdiebooker_site",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
